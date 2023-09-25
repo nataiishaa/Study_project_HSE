@@ -1,0 +1,24 @@
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\bin\Debug\net6.0\EbookLib.deps.json
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\bin\Debug\net6.0\EbookLib.dll
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\bin\Debug\net6.0\EbookLib.pdb
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.csproj.AssemblyReference.cache
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.AssemblyInfoInputs.cache
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.AssemblyInfo.cs
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.csproj.CoreCompileInputs.cache
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.dll
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\refint\EbookLib.dll
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.pdb
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\ref\EbookLib.dll
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\bin\Debug\net6.0\EbookLib.deps.json
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\bin\Debug\net6.0\EbookLib.dll
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\bin\Debug\net6.0\EbookLib.pdb
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.csproj.AssemblyReference.cache
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.AssemblyInfoInputs.cache
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.AssemblyInfo.cs
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.csproj.CoreCompileInputs.cache
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.dll
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\refint\EbookLib.dll
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\EbookLib.pdb
+C:\Users\n0804\Downloads\EbookLib\EbookLib\EbookLib\obj\Debug\net6.0\ref\EbookLib.dll

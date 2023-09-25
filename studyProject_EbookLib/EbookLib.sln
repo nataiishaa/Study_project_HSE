@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EbookLib", "EbookLib\EbookLib.csproj", "{DD156CCC-93C1-4D68-BD2A-DAC0C11A9B59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp1\ConsoleApp.csproj", "{2F9505E2-5C25-473C-84DC-2C2BA4AB6FBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD156CCC-93C1-4D68-BD2A-DAC0C11A9B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD156CCC-93C1-4D68-BD2A-DAC0C11A9B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD156CCC-93C1-4D68-BD2A-DAC0C11A9B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD156CCC-93C1-4D68-BD2A-DAC0C11A9B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9505E2-5C25-473C-84DC-2C2BA4AB6FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9505E2-5C25-473C-84DC-2C2BA4AB6FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9505E2-5C25-473C-84DC-2C2BA4AB6FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9505E2-5C25-473C-84DC-2C2BA4AB6FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9462CD-1FDE-4904-B7C3-21AABC3F8A6C}
+	EndGlobalSection
+EndGlobal

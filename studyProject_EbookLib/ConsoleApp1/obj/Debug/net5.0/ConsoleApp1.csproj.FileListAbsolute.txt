@@ -1,0 +1,57 @@
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\EbookLib.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CopyComplete
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\bin\Debug\net5.0\EbookLib.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CopyComplete
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\bin\Debug\net5.0\EbookLib.pdb
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CopyComplete
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache

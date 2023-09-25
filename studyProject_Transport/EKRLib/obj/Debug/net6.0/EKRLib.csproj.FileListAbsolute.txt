@@ -1,0 +1,24 @@
+C:\Users\n0804\source\repos\EKRLib\EKRLib\bin\Debug\net6.0\EKRLib.deps.json
+C:\Users\n0804\source\repos\EKRLib\EKRLib\bin\Debug\net6.0\EKRLib.dll
+C:\Users\n0804\source\repos\EKRLib\EKRLib\bin\Debug\net6.0\EKRLib.pdb
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\EKRLib.csproj.AssemblyReference.cache
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfoInputs.cache
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfo.cs
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\EKRLib.dll
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\refint\EKRLib.dll
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\EKRLib.pdb
+C:\Users\n0804\source\repos\EKRLib\EKRLib\obj\Debug\net6.0\ref\EKRLib.dll
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\bin\Debug\net6.0\EKRLib.deps.json
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\bin\Debug\net6.0\EKRLib.dll
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\bin\Debug\net6.0\EKRLib.pdb
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\EKRLib.csproj.AssemblyReference.cache
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfoInputs.cache
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfo.cs
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\EKRLib.dll
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\refint\EKRLib.dll
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\EKRLib.pdb
+C:\Users\n0804\Downloads\Transportmod3 (2)\EKRLib\obj\Debug\net6.0\ref\EKRLib.dll

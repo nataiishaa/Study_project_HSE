@@ -1,0 +1,12 @@
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\bin\Debug\net6.0\Librfigur.deps.json
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\bin\Debug\net6.0\Librfigur.dll
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\bin\Debug\net6.0\Librfigur.pdb
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\Librfigur.csproj.AssemblyReference.cache
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\Librfigur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\Librfigur.AssemblyInfoInputs.cache
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\Librfigur.AssemblyInfo.cs
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\Librfigur.csproj.CoreCompileInputs.cache
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\Librfigur.dll
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\refint\Librfigur.dll
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\Librfigur.pdb
+C:\Users\n0804\source\repos\Correctfivar12\Librfigur\obj\Debug\net6.0\ref\Librfigur.dll

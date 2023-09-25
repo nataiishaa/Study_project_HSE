@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Correctfivar12/1.0.0": {
+        "dependencies": {
+          "Librfigur": "1.0.0"
+        },
+        "runtime": {
+          "Correctfivar12.dll": {}
+        }
+      },
+      "Librfigur/1.0.0": {
+        "runtime": {
+          "Librfigur.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Correctfivar12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Librfigur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

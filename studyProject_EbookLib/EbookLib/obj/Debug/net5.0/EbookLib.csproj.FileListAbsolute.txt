@@ -1,0 +1,43 @@
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.deps.json
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\bin\Debug\net5.0\ref\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.csproj.AssemblyReference.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.AssemblyInfoInputs.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.AssemblyInfo.cs
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.csproj.CoreCompileInputs.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\ref\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\СР2\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.deps.json
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\bin\Debug\net5.0\ref\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.pdb
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.csproj.AssemblyReference.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.AssemblyInfoInputs.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.AssemblyInfo.cs
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.csproj.CoreCompileInputs.cache
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\ref\EbookLib.dll
+D:\Univercity\Бизнес\C#\Самостоятельные работы\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.pdb
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.deps.json
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\bin\Debug\net5.0\ref\EbookLib.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\bin\Debug\net5.0\EbookLib.pdb
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.csproj.AssemblyReference.cache
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.AssemblyInfoInputs.cache
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.AssemblyInfo.cs
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.csproj.CoreCompileInputs.cache
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\obj\Debug\net5.0\ref\EbookLib.dll
+D:\Univercity\Бизнес\Business-main\Business-main\Захарова_Наталья\C_sharp\independent work 2\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.pdb
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.csproj.AssemblyReference.cache
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.AssemblyInfoInputs.cache
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.AssemblyInfo.cs
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.csproj.CoreCompileInputs.cache
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.dll
+C:\Users\n0804\OneDrive\Рабочий стол\EbookLib\EbookLib\EbookLib\obj\Debug\net5.0\EbookLib.pdb
